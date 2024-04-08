@@ -35,6 +35,14 @@
 ### 화면 흐름도
 ![메인페이지](https://github.com/seeminglly/team11/assets/80025304/4611ebdf-2d4f-40d8-99e7-170e44c9c47d)
 
+### 지도페이지 및 커뮤니티 게시판 피그마 디자인
+<img width="630" alt="map1" src="https://github.com/seeminglly/team11/assets/80025304/a5d2194b-f601-48f5-a64e-482242d0cf8d">
+
+<img width="630" alt="map2" src="https://github.com/seeminglly/team11/assets/80025304/a502b806-912f-4f35-96af-9a24f384e54a">
+
+<img width="556" alt="게시판" src="https://github.com/seeminglly/team11/assets/80025304/7274dd6e-4578-428f-965f-e52f0ce6e591">
+
+<img width="488" alt="게시판2" src="https://github.com/seeminglly/team11/assets/80025304/5de106b3-356a-4b9c-b8bb-a65f5c222eef">
 
 
 ---
